@@ -4,7 +4,9 @@
     "type": "library",
     "keywords": [
         "zf2",
-        "akismet"
+        "developergarden",
+        "developer",
+        "garden"
     ],
     "homepage": "http://packages.zendframework.com/",
     "license": "BSD-3-Clause",
@@ -13,7 +15,6 @@
             "ZendService": "library/"
         }
     },
-    "target-dir": "ZendService/DeveloperGarden",
     "repositories": [
         {
             "type": "composer",
